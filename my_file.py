@@ -7,4 +7,4 @@ def hi_there():
 
 
 def Hi():
-    print("hello")
+    print("Update python function with merge conflict demo")
